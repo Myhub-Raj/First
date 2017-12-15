@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://heuristic-fermat-cc64f5.netlify.com."
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "hyde"
